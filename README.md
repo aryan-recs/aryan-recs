@@ -18,4 +18,4 @@ Aspiring Data Analyst focused on practical, real-world analytics skills.
 Currently preparing for entry-level Data Analyst roles and building real-world projects.
 
 ## 📫 Connect With Me
-- LinkedIn: ()
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-singh-maurya-3972a0272/)

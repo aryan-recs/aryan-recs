@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aryan 👋
 
-<!--
-**aryan-recs/aryan-recs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst focused on practical, real-world analytics skills.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (NumPy, Pandas)
+- SQL (MySQL)
+- Excel
+- Data Analysis
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- NumPy Data Analysis
+- Superstore Sales Analysis (Pandas)
+- SQL Sales Analysis
+
+## 🎯 Goal
+Currently preparing for entry-level Data Analyst roles and building real-world projects.
+
+## 📫 Connect With Me
+- LinkedIn: ()

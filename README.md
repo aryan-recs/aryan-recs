@@ -1,21 +1,18 @@
 # Hi, I'm Aryan 👋
 
-Aspiring Data Analyst focused on practical, real-world analytics skills.
+  Aspiring Generative AI Engineer focused on building practical ,real world AI and Machine Learning solutions.
 
 ## 🔧 Skills
-- Python (NumPy, Pandas)
+- Python (NumPy, Pandas, Matplotlib, Seaborn)
+- Machine Learning ( Scikit-learn)
+- Generative AI ( Foundation and Applications )
 - SQL (MySQL)
-- Excel
 - Data Analysis
 - Git & GitHub
 
-## 📊 Projects
-- NumPy Data Analysis
-- Superstore Sales Analysis (Pandas)
-- SQL Sales Analysis
 
 ## 🎯 Goal
-Currently preparing for entry-level Data Analyst roles and building real-world projects.
+Currently preparing for Machine Learning and Generative AI, while building real-world, project-based expertise.
 
 ## 📫 Connect With Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-singh-maurya-3972a0272/)

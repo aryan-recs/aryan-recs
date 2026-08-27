@@ -3,13 +3,8 @@
 
 *Machine Learning Engineer | Generative AI Engineer*
 
-I enjoy building practical machine learning and AI projects that solve real-world problems. My interests include machine learning, computer vision, NLP, generative AI, and deploying models so people can actually use them.
+ I'm currently working as a project fellow in csir ceeri on the project ai enabled smart wheelchair sposnsered by ICMR. My interests include machine learning, computer vision, NLP, generative AI, and deploying models so people can actually use them.
 
-## About Me
-
-* I build end-to-end machine learning projects, from preparing data to deploying models.
-* I work with computer vision, NLP, and tabular machine learning.
-* I'm currently working as a project fellow in csir ceeri on the project ai enabled smart wheelchair.
 
 ## Technical Skills
 
@@ -30,6 +25,11 @@ FastAPI, Streamlit, Docker, Git, and GitHub
 
 ## Featured Projects
 
+### Motor Fault Prediction
+
+A machine learning project that uses sensor and operational data to identify potential motor faults and support predictive maintenance.
+
+
 ### Credit Risk Prediction
 
 An end-to-end machine learning project that predicts credit risk using CatBoost. It includes data preprocessing, handling class imbalance with SMOTE, hyperparameter optimization with Optuna, and deployment with FastAPI, Streamlit, and Docker.
@@ -38,13 +38,9 @@ An end-to-end machine learning project that predicts credit risk using CatBoost.
 
 A computer vision project focused on object detection and AI-assisted features for smart wheelchair applications.
 
-### Motor Fault Prediction
-
-A machine learning project that uses sensor and operational data to identify potential motor faults and support predictive maintenance.
-
 
 ## Currently Learning
-
+* Computer vision and its implementaion
 * Generative AI and LLM applications
 * Retrieval-Augmented Generation (RAG)
 * Model deployment and MLOps

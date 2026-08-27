@@ -36,7 +36,7 @@ An end-to-end machine learning project that predicts credit risk using CatBoost.
 
 ### AI Smart Wheelchair
 
-A computer vision project focused on object detection and AI-assisted features for smart wheelchair applications.
+Currently working on computer vision project focused on object detection and AI-assisted features for smart wheelchair applications.
 
 
 ## Currently Learning

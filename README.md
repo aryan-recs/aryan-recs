@@ -1,42 +1,52 @@
 # Hi, I'm Aryan
 **Project Fellow at CSIR CEERI PILANI RAJASTHAN**
 
-*Machine Learning Engineer | Generative AI Engineer*
+*Machine Learning Engineer | GComputer Vision Engineer*
 
  I'm currently working as a project fellow in CSIR-CEERI PILANI on the project ai enabled smart wheelchair sponsored by ICMR. My interests include machine learning, computer vision, NLP, generative AI, and deploying models so people can actually use them.
 
 
 ## Technical Skills
 
-**Languages:**
-Python, SQL
+**Programming Languages**
+Python, C++, SQL, MATLAB/SIMULINK
 
-**Data and Analysis:**
-Pandas, NumPy, Matplotlib, Excel, Power BI, MySQL
+**Machine Learning**
+Scikit-learn, XGBoost, Random Forest, Logistic Regression, SVM, KNN
 
-**Machine Learning:**
-Scikit-learn, CatBoost, LightGBM, feature engineering, model evaluation, and hyperparameter optimization
+**Deep Learning**
+ANN, CNN, RNN, PyTorch, Keras
 
-**Deep Learning and AI:**
-PyTorch, YOLO, computer vision, NLP, generative AI, and LLMs
+**Computer Vision**
+YOLO, OpenCV
 
-**Deployment and Tools:**
-FastAPI, Streamlit, Docker, Git, and GitHub
+**NLP**
+TF-IDF, Bag of Words, Word2Vec
+
+**Deployment & Tools**
+FastAPI , Streamlit, Docker, Git
+
 
 ## Featured Projects
 
-### Motor Fault Prediction
 
-A machine learning project that uses sensor and operational data to identify potential motor faults and support predictive maintenance.
+### Smart Wheelchair Object Detection& Collision-Risk Assessment 
 
+**Smart Wheelchair Object Detection& Collision-Risk Assessment** 
+•	Built a vision system for obstacle detection in smart-wheelchair navigation.
+•	Fine tuned YOLO11n across seven object categories using a custom dataset.
+•	Added collision-risk assessment using bounding boxes and object positions.
 
-### Credit Risk Prediction
+**Motor Fault Detection**						    
+•	Built an LSTM model to detect motor faults using time series sensor data.
+•	Developed preprocessing, sequence generation, training and fault-classification pipelines.
+•	Deployed the model using FastAPI, Streamlit, and Docker.
 
-An end-to-end machine learning project that predicts credit risk using CatBoost. It includes data preprocessing, handling class imbalance with SMOTE, hyperparameter optimization with Optuna, and deployment with FastAPI, Streamlit, and Docker.
+**Sentiment Analysis**  
+•	Built a sentiment classification model using TF-IDF features.
+•	Compared SVC and Logistic Regression and optimized the models using Optuna.
+•	Deployed the final model using FastAPI, Streamlit, and Docker.
 
-### AI Smart Wheelchair
-
-Currently working on computer vision project focused on object detection and AI-assisted features for smart wheelchair applications.
 
 
 ## Currently Learning

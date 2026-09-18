@@ -3,7 +3,7 @@
 
 *Machine Learning Engineer | Computer Vision Engineer*
 
- I'm currently working as a project fellow in CSIR-CEERI PILANI on the project ai enabled smart wheelchair sponsored by ICMR. My interests include machine learning, computer vision, NLP, generative AI, and deploying models so people can actually use them.
+ I'm currently working as a project technical support in CSIR-CEERI PILANI on the project ai enabled smart wheelchair sponsored by ICMR. My interests include machine learning, computer vision, NLP, generative AI, and deploying models so people can actually use them.
 
 
 ## Technical Skills

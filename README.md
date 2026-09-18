@@ -1,5 +1,5 @@
 # Hi, I'm Aryan
-**Project Fellow at CSIR CEERI PILANI RAJASTHAN**
+**Project Technical Support at CSIR CEERI PILANI RAJASTHAN**
 
 *Machine Learning Engineer | Computer Vision Engineer*
 

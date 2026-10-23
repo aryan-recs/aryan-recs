@@ -12,10 +12,10 @@
 Python, C++, SQL, MATLAB/SIMULINK
 
 **Machine Learning:**
-Scikit-learn, XGBoost, Random Forest, Logistic Regression, SVM, KNN
+Scikit-learn, XGBoost, CatBoost, Random Forest, Logistic Regression, SVM, KNN, Feature Engineering, SMOTE, Model Optimization
 
 **Deep Learning:**
-ANN, CNN, RNN, PyTorch, Keras
+PyTorch, Keras, ANN, CNN, RNN, LSTM, GRU, Transformers
 
 **Computer Vision:**
 YOLO, OpenCV
@@ -23,8 +23,15 @@ YOLO, OpenCV
 **NLP:**
 TF-IDF, Bag of Words, Word2Vec
 
+**Generative AI:** 
+LLMs, RAG, LangChain, Embeddings, Agentic AI
+
+**Data Engineering:**
+PySpark, Databricks, ETL/ELT pipelines, Pandas, NumPy, Matplotlib, Seaborn
+
 **Deployment & Tools:**
-FastAPI , Streamlit, Docker, Git
+FastAPI, REST APIs, Docker, AWS, Git & Github, Raspberry Pi
+
 
 
 ## Featured Projects

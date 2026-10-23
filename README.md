@@ -33,33 +33,9 @@ PySpark, Databricks, ETL/ELT pipelines, Pandas, NumPy, Matplotlib, Seaborn
 FastAPI, REST APIs, Docker, AWS, Git & Github, Raspberry Pi
 
 
-
-## Featured Projects
-
-
-### Smart Wheelchair Object Detection& Collision-Risk Assessment 
-
-**Smart Wheelchair Object Detection& Collision-Risk Assessment**       
-•	Built a vision system for obstacle detection in smart-wheelchair navigation.         
-•	Fine tuned YOLO11n across seven object categories using a custom dataset.        
-•	Added collision-risk assessment using bounding boxes and object positions.
-
-**Motor Fault Detection**						    
-•	Built an LSTM model to detect motor faults using time series sensor data.       
-•	Developed preprocessing, sequence generation, training and fault-classification pipelines.      
-•	Deployed the model using FastAPI, Streamlit, and Docker.
-
-**Sentiment Analysis**  
-•	Built a sentiment classification model using TF-IDF features.       
-•	Compared SVC and Logistic Regression and optimized the models using Optuna.       
-•	Deployed the final model using FastAPI, Streamlit, and Docker.
-
-
-
 ## Currently Learning
 * Computer vision and its implementaion      
-* Generative AI and LLM applications       
-* Retrieval-Augmented Generation (RAG)      
+* Generative AI and LLM applications          
 * Model deployment and MLOps      
 * Data structures and algorithms      
 
